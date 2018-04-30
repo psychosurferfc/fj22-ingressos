@@ -1,7 +1,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%@tag description="Overall Page template" pageEncoding="UTF-8"%>
-<%@attribute name="compra_css" fragment="true" %>
-<%@taglib prefix="sec" uri="http://www.springframework.org/security/tags" %>
+<%@ tag description="Overall Page template" pageEncoding="UTF-8"%>
+<%@ attribute name="compra_css" fragment="true" %>
+<%@ taglib prefix="sec" uri="http://www.springframework.org/security/tags" %>
 
 <!DOCTYPE html>
 <html lang="pt-BR">
