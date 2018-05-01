@@ -38,10 +38,10 @@ public class Sessao {
 	public void setId(Integer id) {
 		this.id = id;
 	}
-	public LocalTime getHoraSessao() {
+	public LocalTime getHorario() {
 		return horario;
 	}
-	public void setHoraSessao(LocalTime horaSessao) {
+	public void setHorario(LocalTime horaSessao) {
 		this.horario = horaSessao;
 	}
 	public Filme getFilme() {
